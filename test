@@ -1,0 +1,46 @@
+digraph G
+{
+  "Anders" [tooltip="Anders!"]
+  "Anna" [tooltip="Anna!"]
+  "Astor" [tooltip="Astor!"]
+  "Bodil" [tooltip="Bodil!"]
+  "Hasse" [tooltip="Hasse!"]
+  "Jessica" [tooltip="Jessica!"]
+  "Karin" [tooltip="Karin!"]
+  "Kent" [tooltip="Kent!"]
+  "Klara" [tooltip="Klara!"]
+  "Lilliann" [tooltip="Lilliann!"]
+  "Lisa" [tooltip="Lisa!"]
+  "Maj-Britt" [tooltip="Maj-Britt!"]
+  "Marcus" [tooltip="Marcus!"]
+  "Melissa" [tooltip="Melissa!"]
+  "Morgan" [tooltip="Morgan!"]
+  "Peter" [tooltip="Peter!"]
+  "Sara" [tooltip="Sara!"]
+  "Stig" [tooltip="Stig!"]
+  "Susanna" [tooltip="Susanna!"]
+  "Anders" -> "Jessica"
+  "Astor" -> "Anders"
+  "Astor" -> "Kent"
+  "Astor" -> "Stig"
+  "Bodil" -> "Lisa"
+  "Bodil" -> "Peter"
+  "Hasse" -> "Bodil"
+  "Hasse" -> "Lilliann"
+  "Kent" -> "Lisa"
+  "Kent" -> "Peter"
+  "Klara" -> "Anders"
+  "Klara" -> "Kent"
+  "Klara" -> "Stig"
+  "Lilliann" -> "Anna"
+  "Lilliann" -> "Karin"
+  "Lilliann" -> "Sara"
+  "Lisa" -> "Melissa"
+  "Maj-Britt" -> "Bodil"
+  "Maj-Britt" -> "Lilliann"
+  "Marcus" -> "Melissa"
+  "Morgan" -> "Anna"
+  "Morgan" -> "Karin"
+  "Morgan" -> "Sara"
+  "Susanna" -> "Melissa"
+}

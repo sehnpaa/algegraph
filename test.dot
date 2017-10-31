@@ -1,0 +1,10 @@
+digraph
+{
+  ""Kent""
+  ""Kent2""
+  ""Lisa""
+  ""Lisa2""
+  ""Peter""
+  ""Kent"" -> ""Lisa""
+  ""Kent"" -> ""Peter""
+}
